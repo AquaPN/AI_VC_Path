@@ -39,9 +39,8 @@ It’s less about polished outcomes, more about progress in motion.
 This isn’t just my journey — I’d love to hear about yours too.  
 If you’re building something, exploring startups, investing, or just curious to swap ideas (or even just say *hi*), let’s chat.  
 
-📧 Email: [your email]  
-🔗 LinkedIn: [your profile]  
-💬 Slack: [your slack invite]  
+📧 Email: writeto.partho23@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/parthonabar/ 
 
 ---
 
