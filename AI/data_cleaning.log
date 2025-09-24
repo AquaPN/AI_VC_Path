@@ -1,0 +1,5 @@
+2025-09-24 13:27:37,952 - WARNING - Invalid score 'abc' for name 'Orion'. Setting score to 0.
+2025-09-24 13:27:37,952 - WARNING - Invalid age '' for name 'Atlas'. Setting age to -1.
+2025-09-24 13:27:37,952 - WARNING - Invalid score '' for name 'Nova'. Setting score to 0.
+2025-09-24 13:27:37,952 - WARNING - Missing name in row: {'Name': '', 'Score': '88', 'Age': '21'}
+2025-09-24 13:27:37,976 - INFO - Data cleaning complete. Cleaned data saved to cleaned_data.csv
